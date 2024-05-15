@@ -50,7 +50,7 @@
     <form method="POST" action="convert.php">
         <div>
             <label for="time">Time</label>
-            <input type="text" id="time" name="time">
+            <input type="text" id="time" name="time" placeholder="hh:mm:ss">
             <label for="date">Date</label>
             <input type="date" id="date" name="date">
             <label for="timezone">Time Zone</label>
