@@ -76,11 +76,11 @@
                 <option value="Asia/Shanghai">(UTC+08:00) Asia/Shanghai</option>
                 <option value="Asia/Tokyo">(UTC+09:00) Asia/Tokyo</option>
                 <option value="Australia/Sydney">(UTC+10:00) Australia/Sydney</option>
-                <option value="Pacific/Auckland">(UTC+12:00) Pacific/Auckland</option>option value="Pacific/Honolulu">(UTC-10:00) Pacific/Honolulu</option>
+                <option value="Pacific/Auckland">(UTC+12:00) Pacific/Auckland</option>
+                <option value="Pacific/Honolulu">(UTC-10:00) Pacific/Honolulu</option>
             </select>
             <input type="submit" value="Convert">
         </div>
     </form>
-    
 </body>
 </html>
